@@ -3,6 +3,10 @@
 mkdir go_ejemplo
 cd go_ejemplo
 notepad main.go
+mkdir libreria
+cd libreria
+notepad salidas.go
+cd ..
 ```
 
 ### inicializar proyecto
