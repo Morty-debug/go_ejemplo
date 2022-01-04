@@ -15,14 +15,6 @@ go mod init github.com/Morty-debug/go_ejemplo
 go mod tidy
 ```
 
-### actualizar proyecot
-```batch
-del /f go.mod
-del /f go.sum
-go mod init github.com/Morty-debug/go_ejemplo
-go mod tidy
-```
-
 ### interpretar codigo
 ```batch
 go run main.go
