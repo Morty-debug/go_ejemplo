@@ -1,5 +1,5 @@
 package salidas
 import "fmt"
 func Hola() {
-    fmt.Println("Hola, Go!")
+    fmt.Println("Hola, Gopher!")
 }
